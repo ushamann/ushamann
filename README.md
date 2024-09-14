@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ushamann
-- 👀 I’m interested in computer science and programming
-- 🌱 I'm currently in college for computer science. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in: computer science and programming
+- 🌱 I'm currently in college for: computer science. 
+- 💞️ I’m looking to collaborate on:
+- 📫 How to reach me: Email would work best for now
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a pentesting certificate.
 
